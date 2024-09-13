@@ -1150,3 +1150,15 @@
 2024-09-12 12:17:20,319 - __main__ - INFO - Tomorrow's Sunrise (IST) 06:00
 2024-09-12 12:17:20,319 - __main__ - INFO - Moonset (IST) --:--
 2024-09-12 12:17:20,319 - __main__ - INFO - Moonrise (IST) 14:20
+2024-09-13 12:16:52,224 - __main__ - INFO - Past 24 Hours Weather Data
+2024-09-13 12:16:52,224 - __main__ - INFO - Maximum Temp(oC) (Recorded on 12/09/24) 27.0
+2024-09-13 12:16:52,224 - __main__ - INFO - Departure from Normal(oC) -2.7
+2024-09-13 12:16:52,224 - __main__ - INFO - Minimum Temp (oC) (Recorded. on 13/09/24) 21.7
+2024-09-13 12:16:52,224 - __main__ - INFO - Departure from Normal(oC) 0.1
+2024-09-13 12:16:52,224 - __main__ - INFO - 24 Hours Rainfall (mm) (Recorded from 0830 hrs IST of yesterday to 0830 hrs IST of today) 19
+2024-09-13 12:16:52,225 - __main__ - INFO - Relative Humidity at 0830 hrs (%) 95
+2024-09-13 12:16:52,225 - __main__ - INFO - Relative Humidity at 1730 hrs (%) (Recorded on 12/09/24) 96
+2024-09-13 12:16:52,225 - __main__ - INFO - Todays Sunset (IST) 18:26
+2024-09-13 12:16:52,225 - __main__ - INFO - Tomorrow's Sunrise (IST) 06:01
+2024-09-13 12:16:52,225 - __main__ - INFO - Moonset (IST) 00:13
+2024-09-13 12:16:52,225 - __main__ - INFO - Moonrise (IST) 15:15
