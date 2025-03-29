@@ -3466,3 +3466,15 @@
 2025-03-28 12:19:44,318 - __main__ - INFO - Tomorrow's Sunrise (IST) 06:12
 2025-03-28 12:19:44,318 - __main__ - INFO - Moonset (IST) 17:28
 2025-03-28 12:19:44,318 - __main__ - INFO - Moonrise (IST) 05:24
+2025-03-29 12:17:40,464 - __main__ - INFO - Past 24 Hours Weather Data
+2025-03-29 12:17:40,464 - __main__ - INFO - Maximum Temp(oC) (Recorded on 28/03/25) 32.3
+2025-03-29 12:17:40,464 - __main__ - INFO - Departure from Normal(oC) 2.5
+2025-03-29 12:17:40,464 - __main__ - INFO - Minimum Temp (oC) (Recorded. on 29/03/25) 13.0
+2025-03-29 12:17:40,464 - __main__ - INFO - Departure from Normal(oC) -2.2
+2025-03-29 12:17:40,464 - __main__ - INFO - 24 Hours Rainfall (mm) (Recorded from 0830 hrs IST of yesterday to 0830 hrs IST of today) NIL
+2025-03-29 12:17:40,464 - __main__ - INFO - Relative Humidity at 0830 hrs (%) 63
+2025-03-29 12:17:40,464 - __main__ - INFO - Relative Humidity at 1730 hrs (%) (Recorded on 28/03/25) 35
+2025-03-29 12:17:40,465 - __main__ - INFO - Todays Sunset (IST) 18:34
+2025-03-29 12:17:40,465 - __main__ - INFO - Tomorrow's Sunrise (IST) 06:11
+2025-03-29 12:17:40,465 - __main__ - INFO - Moonset (IST) 18:37
+2025-03-29 12:17:40,465 - __main__ - INFO - Moonrise (IST) 05:57
